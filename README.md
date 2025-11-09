@@ -275,9 +275,9 @@ IPATH += $(CMSIS_ROOT)/Include
 
 | Figures                                                    |
 | ---------------------------------------------------------- |
-| ![QAT Evaluation](include/Evaluation_result2.png)          |
-| ![Code Generation](include/Generation_result.png)          |
-| ![Board Implementation](include/Implementation_result.png) |
+| ![QAT Evaluation](Result/Evaluation_result2.png)          |
+| ![Code Generation](Result/Generation_result.png)          |
+| ![Board Implementation](Result/Implementation_result.png) |
 
 
 ---
