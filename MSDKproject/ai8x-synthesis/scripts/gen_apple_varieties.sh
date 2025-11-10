@@ -1,0 +1,1 @@
+python ai8xize.py --verbose --test-dir demos --prefix ai8x-apple_discrimination --checkpoint-file trained/apple_varieties-q_best.pth.tar --overwrite --config-file networks/ai8x-apple_discrimination.yaml --device MAX78000 --compact-data --mexpress --softmax --timer 0 --display-checkpoint "$@"

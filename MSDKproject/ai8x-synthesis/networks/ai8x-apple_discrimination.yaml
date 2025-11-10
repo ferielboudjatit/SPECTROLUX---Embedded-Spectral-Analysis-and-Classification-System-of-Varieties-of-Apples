@@ -1,0 +1,37 @@
+arch: ai85apple_discrimination
+dataset: AppleSpectra
+
+layers:
+  - pad: 2
+    activate: ReLU
+    out_offset: 0x2000
+    processors: 0x0000000000000001
+    data_format: HWC
+    kernel_size: 5
+    operation: Conv1d
+  - max_pool: 2
+    pool_stride: 2
+    pad : 1
+    activate: ReLU
+    out_offset: 0x0000
+    processors: 0x00000000ffffffff
+    data_format: HWC
+    kernel_size: 3
+    operation: Conv1d    
+  - max_pool: 2
+    pool_stride: 2
+    pad : 1
+    activate: ReLU
+    out_offset: 0x2000
+    processors: 0xffffffffffffffff
+    data_format: HWC
+    kernel_size: 3
+    operation: Conv1d 
+  - flatten: true
+    out_offset: 0x0000
+    processors: 0x0000000000003fff
+    operation: MLP 
+  - out_offset: 0x2000
+    processors: 0x00000000ffffffff
+    output_width: 32
+    operation: MLP 

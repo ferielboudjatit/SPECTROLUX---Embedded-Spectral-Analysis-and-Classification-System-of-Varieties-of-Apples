@@ -1,0 +1,85 @@
+var group__tmr =
+[
+    [ "TMR_Registers", "group__tmr__registers.html", "group__tmr__registers" ],
+    [ "mxc_tmr_cfg_t", "group__tmr.html#structmxc__tmr__cfg__t", [
+      [ "bitMode", "group__tmr.html#a672ceb3b39bde94e7fe00024275208a1", null ],
+      [ "clock", "group__tmr.html#a0a9bf64c5dc56b2dc8ac70dda06b67c6", null ],
+      [ "cmp_cnt", "group__tmr.html#a8bad5edf8d5b4929b1a5ce52ab78253d", null ],
+      [ "mode", "group__tmr.html#ad09582679ae9f272be80f259ccce9248", null ],
+      [ "pol", "group__tmr.html#a382d2b99c2706065d65af4d94cacaf3f", null ],
+      [ "pres", "group__tmr.html#a5003c035ba324f076222cc14167b5950", null ]
+    ] ],
+    [ "mxc_tmr_bit_mode_t", "group__tmr.html#gaa24c4c54f7c5e0ffef2d410c75e3c0ea", [
+      [ "MXC_TMR_BIT_MODE_32", "group__tmr.html#ggaa24c4c54f7c5e0ffef2d410c75e3c0eaa74fc1cc399896ba86b69bcf026406f94", null ],
+      [ "MXC_TMR_BIT_MODE_16A", "group__tmr.html#ggaa24c4c54f7c5e0ffef2d410c75e3c0eaa26ba84d2eb7c0d256e1e03c58700d651", null ],
+      [ "MXC_TMR_BIT_MODE_16B", "group__tmr.html#ggaa24c4c54f7c5e0ffef2d410c75e3c0eaa277f1ecdb922f7240e094f311a2cc6dc", null ]
+    ] ],
+    [ "mxc_tmr_clock_t", "group__tmr.html#ga58901bfa21b78eb6ab4a702cc4f6ae83", [
+      [ "MXC_TMR_APB_CLK", "group__tmr.html#gga58901bfa21b78eb6ab4a702cc4f6ae83a0911f82d33fd259ae831eb24c926ca6c", null ],
+      [ "MXC_TMR_EXT_CLK", "group__tmr.html#gga58901bfa21b78eb6ab4a702cc4f6ae83a7fc045d3e7169a259f77eeecbb08da95", null ],
+      [ "MXC_TMR_ISO_CLK", "group__tmr.html#gga58901bfa21b78eb6ab4a702cc4f6ae83a12daec68abbbaf37d2c93a8ef5e616ef", null ],
+      [ "MXC_TMR_IBRO_CLK", "group__tmr.html#gga58901bfa21b78eb6ab4a702cc4f6ae83ad825f3061c9c76171593073b0c9836ca", null ],
+      [ "MXC_TMR_ERTCO_CLK", "group__tmr.html#gga58901bfa21b78eb6ab4a702cc4f6ae83a7888a0fe5d4d13110962a8590306fbab", null ],
+      [ "MXC_TMR_INRO_CLK", "group__tmr.html#gga58901bfa21b78eb6ab4a702cc4f6ae83aed958a14716626e7cabe68c8268533d3", null ],
+      [ "MXC_TMR_IBRO_DIV8_CLK", "group__tmr.html#gga58901bfa21b78eb6ab4a702cc4f6ae83ab281fa148b505150d4c066f7f852311b", null ]
+    ] ],
+    [ "mxc_tmr_mode_t", "group__tmr.html#gaa4b41159cb2e0fc8fcfb3c258f2972da", [
+      [ "MXC_TMR_MODE_ONESHOT", "group__tmr.html#ggaa4b41159cb2e0fc8fcfb3c258f2972daa6b11b6cafb392b67e1641097778dc986", null ],
+      [ "MXC_TMR_MODE_CONTINUOUS", "group__tmr.html#ggaa4b41159cb2e0fc8fcfb3c258f2972daabcd9d29e94609eb514b54fb00f27eb9b", null ],
+      [ "MXC_TMR_MODE_COUNTER", "group__tmr.html#ggaa4b41159cb2e0fc8fcfb3c258f2972daaf44070db3f02ebb83722e8f4de92228b", null ],
+      [ "MXC_TMR_MODE_PWM", "group__tmr.html#ggaa4b41159cb2e0fc8fcfb3c258f2972daa1a6d6bdab29679e47ad7927689702882", null ],
+      [ "MXC_TMR_MODE_CAPTURE", "group__tmr.html#ggaa4b41159cb2e0fc8fcfb3c258f2972daa9b893781cbeebd233e27ed47dae7e0ec", null ],
+      [ "MXC_TMR_MODE_COMPARE", "group__tmr.html#ggaa4b41159cb2e0fc8fcfb3c258f2972daacf401e331379fec07e06d27ddd8ad0a5", null ],
+      [ "MXC_TMR_MODE_GATED", "group__tmr.html#ggaa4b41159cb2e0fc8fcfb3c258f2972daad637ba81b6daeb3542cb59c008ec4ce5", null ],
+      [ "MXC_TMR_MODE_CAPTURE_COMPARE", "group__tmr.html#ggaa4b41159cb2e0fc8fcfb3c258f2972daa3bc58b246a68511d5f78b4d465f0997d", null ],
+      [ "MXC_TMR_MODE_DUAL_EDGE", "group__tmr.html#ggaa4b41159cb2e0fc8fcfb3c258f2972daae87aa000232d7dab66684c13126d886d", null ]
+    ] ],
+    [ "mxc_tmr_pres_t", "group__tmr.html#gaa8ad001ef87dfd27884960ac2769fdd3", [
+      [ "MXC_TMR_PRES_1", "group__tmr.html#ggaa8ad001ef87dfd27884960ac2769fdd3ab5fea17f034c388d90e31ee9869cf0c4", null ],
+      [ "MXC_TMR_PRES_2", "group__tmr.html#ggaa8ad001ef87dfd27884960ac2769fdd3a2dc519470609a45c72752fc1fca43090", null ],
+      [ "MXC_TMR_PRES_4", "group__tmr.html#ggaa8ad001ef87dfd27884960ac2769fdd3a092a0216aff8094e5842b7c309f182ad", null ],
+      [ "MXC_TMR_PRES_8", "group__tmr.html#ggaa8ad001ef87dfd27884960ac2769fdd3a5cc7f8834c340319084d5357dbbbd45f", null ],
+      [ "MXC_TMR_PRES_16", "group__tmr.html#ggaa8ad001ef87dfd27884960ac2769fdd3afa69cc8c271bbf9ce13c19592b738a23", null ],
+      [ "MXC_TMR_PRES_32", "group__tmr.html#ggaa8ad001ef87dfd27884960ac2769fdd3a9f9425aa14233bb29e9728cdda3bb453", null ],
+      [ "MXC_TMR_PRES_64", "group__tmr.html#ggaa8ad001ef87dfd27884960ac2769fdd3a47aed942f49a783371b52087ca99e929", null ],
+      [ "MXC_TMR_PRES_128", "group__tmr.html#ggaa8ad001ef87dfd27884960ac2769fdd3a8433dc773a16a2069688be2b3339ee70", null ],
+      [ "MXC_TMR_PRES_256", "group__tmr.html#ggaa8ad001ef87dfd27884960ac2769fdd3aa53c5372551a7af0a6458e960a561f98", null ],
+      [ "MXC_TMR_PRES_512", "group__tmr.html#ggaa8ad001ef87dfd27884960ac2769fdd3af389f6d0d93bae6e93e6a83b3a98208e", null ],
+      [ "MXC_TMR_PRES_1024", "group__tmr.html#ggaa8ad001ef87dfd27884960ac2769fdd3a62ef6702c74d1e591c3db28b35a8920c", null ],
+      [ "MXC_TMR_PRES_2048", "group__tmr.html#ggaa8ad001ef87dfd27884960ac2769fdd3af20929e4d84c9953c398050564a78d3d", null ],
+      [ "MXC_TMR_PRES_4096", "group__tmr.html#ggaa8ad001ef87dfd27884960ac2769fdd3af0d6582e3508e1f4221b979585329801", null ]
+    ] ],
+    [ "mxc_tmr_unit_t", "group__tmr.html#gaa0d647d7ed191977d06968a0594b9eeb", [
+      [ "MXC_TMR_UNIT_NANOSEC", "group__tmr.html#ggaa0d647d7ed191977d06968a0594b9eebab8bd9fe43f772df67b3b2dffbac083da", null ],
+      [ "MXC_TMR_UNIT_MICROSEC", "group__tmr.html#ggaa0d647d7ed191977d06968a0594b9eeba8b9c044adc728b43871d1be68e55d118", null ],
+      [ "MXC_TMR_UNIT_MILLISEC", "group__tmr.html#ggaa0d647d7ed191977d06968a0594b9eeba727d161251381d5bde5c66c9be6a1f81", null ],
+      [ "MXC_TMR_UNIT_SEC", "group__tmr.html#ggaa0d647d7ed191977d06968a0594b9eeba3a58f8d48214a0685aa3a5b54d1a78c9", null ]
+    ] ],
+    [ "MXC_TMR_ClearFlags", "group__tmr.html#ga0cffb0acccf89461d81a330dda6639bb", null ],
+    [ "MXC_TMR_Delay", "group__tmr.html#gaf5f910fb8442d3f8f716297b8f7c6cf5", null ],
+    [ "MXC_TMR_DisableInt", "group__tmr.html#gaf6de93d4bcf7b21642125e48528eda3a", null ],
+    [ "MXC_TMR_DisableWakeup", "group__tmr.html#gade08f3e38b6383f019e0d47c735adb94", null ],
+    [ "MXC_TMR_EnableInt", "group__tmr.html#ga015873a7d2728533fe422e8c952b0556", null ],
+    [ "MXC_TMR_EnableWakeup", "group__tmr.html#ga05065e2e6bd4b707771f771bf2e47afa", null ],
+    [ "MXC_TMR_GetCapture", "group__tmr.html#ga5ec4b965db1351a949161a886384253c", null ],
+    [ "MXC_TMR_GetCompare", "group__tmr.html#ga38a13c176ec7b4dcf1c961d912d55e4c", null ],
+    [ "MXC_TMR_GetCount", "group__tmr.html#ga08c77f22d309e526ba7aa347ea56bb46", null ],
+    [ "MXC_TMR_GetFlags", "group__tmr.html#gad0e3d710386ef39ca79b7c4e87f96b26", null ],
+    [ "MXC_TMR_GetPeriod", "group__tmr.html#gacb9e5277ceceba9a87038644f2e18360", null ],
+    [ "MXC_TMR_GetTime", "group__tmr.html#ga17ce01e32c05bbca3c52c2ff6e20ad95", null ],
+    [ "MXC_TMR_Init", "group__tmr.html#ga58d5a6df87c13d13fb759fc35e5e72a8", null ],
+    [ "MXC_TMR_SetCompare", "group__tmr.html#gaa43ca41ee1a4f223572c621229039c14", null ],
+    [ "MXC_TMR_SetCount", "group__tmr.html#ga8b6dc7b49cb169a2357bdee1a59543b3", null ],
+    [ "MXC_TMR_SetPWM", "group__tmr.html#ga3b5c29727e46f47978286b2afd0c3e8a", null ],
+    [ "MXC_TMR_Shutdown", "group__tmr.html#ga2d67231e90c7b452e8e20951c0d72469", null ],
+    [ "MXC_TMR_Start", "group__tmr.html#ga9f7f78e2fdf6baee8c12430c0825eafe", null ],
+    [ "MXC_TMR_Stop", "group__tmr.html#ga721a6a9e475bfe6a9e6062b66516b3ef", null ],
+    [ "MXC_TMR_SW_Start", "group__tmr.html#gac2efae1d91bc0bcef15531f267fc74db", null ],
+    [ "MXC_TMR_SW_Stop", "group__tmr.html#ga42cb3aa8f52dbdb93c35710fea893b42", null ],
+    [ "MXC_TMR_TO_Check", "group__tmr.html#ga948ee564aa4bb00cf56737f78cf4f8c1", null ],
+    [ "MXC_TMR_TO_Clear", "group__tmr.html#gad98de64fb8fe92a779d16820201ebb78", null ],
+    [ "MXC_TMR_TO_Elapsed", "group__tmr.html#gafa3ecdd1645041b6ad8a757cf17ba149", null ],
+    [ "MXC_TMR_TO_Remaining", "group__tmr.html#ga4a27534d7cd8f1108fc5b129a7074017", null ],
+    [ "MXC_TMR_TO_Start", "group__tmr.html#gad853fbc541aee656b1df92f9ab8c8c29", null ],
+    [ "MXC_TMR_TO_Stop", "group__tmr.html#ga779144ff4868ec1ef08c18f5f2529e0c", null ]
+];

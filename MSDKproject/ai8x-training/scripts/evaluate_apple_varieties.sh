@@ -1,0 +1,1 @@
+python train.py --batch-size 8 --model ai85apple_discrimination --save-sample 4 --data ./data/Apple_varieties --dataset AppleSpectra --confusion --evaluate --exp-load-weights-from ../ai8x-synthesis/trained/apple_varieties-q_best.pth.tar  -8 --device MAX78000 "$@"

@@ -1,0 +1,27 @@
+var searchData=
+[
+  ['register_20offsets',['Register Offsets',['../group___d_m_a___register___offsets.html',1,'']]],
+  ['register_20offsets',['Register Offsets',['../group___f_c_r___register___offsets.html',1,'']]],
+  ['register_20offsets',['Register Offsets',['../group___f_l_c___register___offsets.html',1,'']]],
+  ['register_20offsets',['Register Offsets',['../group___g_c_r___register___offsets.html',1,'']]],
+  ['register_20offsets',['Register Offsets',['../group___g_p_i_o___register___offsets.html',1,'']]],
+  ['register_20offsets',['Register Offsets',['../group___i2_c___register___offsets.html',1,'']]],
+  ['register_20offsets',['Register Offsets',['../group___i_c_c___register___offsets.html',1,'']]],
+  ['register_20offsets',['Register Offsets',['../group___p_w_r_s_e_q___register___offsets.html',1,'']]],
+  ['real_20time_20clock_20_28rtc_29',['Real Time Clock (RTC)',['../group__rtc.html',1,'']]],
+  ['rtc_5fctrl',['RTC_CTRL',['../group___r_t_c___c_t_r_l.html',1,'']]],
+  ['rtc_5foscctrl',['RTC_OSCCTRL',['../group___r_t_c___o_s_c_c_t_r_l.html',1,'']]],
+  ['rtc_5fras',['RTC_RAS',['../group___r_t_c___r_a_s.html',1,'']]],
+  ['register_20offsets',['Register Offsets',['../group___r_t_c___register___offsets.html',1,'']]],
+  ['rtc_5fregisters',['RTC_Registers',['../group__rtc__registers.html',1,'']]],
+  ['rtc_5frssa',['RTC_RSSA',['../group___r_t_c___r_s_s_a.html',1,'']]],
+  ['rtc_5fsec',['RTC_SEC',['../group___r_t_c___s_e_c.html',1,'']]],
+  ['rtc_5fssec',['RTC_SSEC',['../group___r_t_c___s_s_e_c.html',1,'']]],
+  ['rtc_5ftrim',['RTC_TRIM',['../group___r_t_c___t_r_i_m.html',1,'']]],
+  ['register_20offsets',['Register Offsets',['../group___s_i_r___register___offsets.html',1,'']]],
+  ['register_20offsets',['Register Offsets',['../group___s_p_i___register___offsets.html',1,'']]],
+  ['register_20offsets',['Register Offsets',['../group___s_p_i_m_s_s___register___offsets.html',1,'']]],
+  ['register_20offsets',['Register Offsets',['../group___t_m_r___register___offsets.html',1,'']]],
+  ['register_20offsets',['Register Offsets',['../group___u_a_r_t___register___offsets.html',1,'']]],
+  ['register_20offsets',['Register Offsets',['../group___w_d_t___register___offsets.html',1,'']]]
+];

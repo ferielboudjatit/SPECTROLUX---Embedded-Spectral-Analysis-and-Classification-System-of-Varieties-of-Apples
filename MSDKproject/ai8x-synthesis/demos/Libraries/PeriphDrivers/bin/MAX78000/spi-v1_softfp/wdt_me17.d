@@ -1,0 +1,32 @@
+/home/feriel/MaximSDK/Libraries/PeriphDrivers/bin/MAX78000/spi-v1_softfp/wdt_me17.o: \
+ /home/feriel/MaximSDK/Libraries/CMSIS/../PeriphDrivers/Source/WDT/wdt_me17.c \
+ /home/feriel/MaximSDK/Libraries/CMSIS/../PeriphDrivers/Include/MAX78000/mxc_device.h \
+ /home/feriel/MaximSDK/Libraries/CMSIS/Device/Maxim/MAX78000/Include/max78000.h \
+ /home/feriel/MaximSDK/Tools/GNUTools/10.3/lib/gcc/arm-none-eabi/10.3.1/include/stdint.h \
+ /home/feriel/MaximSDK/Tools/GNUTools/10.3/arm-none-eabi/include/stdint.h \
+ /home/feriel/MaximSDK/Tools/GNUTools/10.3/arm-none-eabi/include/machine/_default_types.h \
+ /home/feriel/MaximSDK/Tools/GNUTools/10.3/arm-none-eabi/include/sys/features.h \
+ /home/feriel/MaximSDK/Tools/GNUTools/10.3/arm-none-eabi/include/_newlib_version.h \
+ /home/feriel/MaximSDK/Tools/GNUTools/10.3/arm-none-eabi/include/sys/_intsup.h \
+ /home/feriel/MaximSDK/Tools/GNUTools/10.3/arm-none-eabi/include/sys/_stdint.h \
+ /home/feriel/MaximSDK/Libraries/CMSIS/5.9.0/Core/Include/core_cm4.h \
+ /home/feriel/MaximSDK/Libraries/CMSIS/5.9.0/Core/Include/cmsis_version.h \
+ /home/feriel/MaximSDK/Libraries/CMSIS/5.9.0/Core/Include/cmsis_compiler.h \
+ /home/feriel/MaximSDK/Libraries/CMSIS/5.9.0/Core/Include/cmsis_gcc.h \
+ /home/feriel/MaximSDK/Libraries/CMSIS/5.9.0/Core/Include/mpu_armv7.h \
+ /home/feriel/MaximSDK/Libraries/CMSIS/Device/Maxim/MAX78000/Include/system_max78000.h \
+ /home/feriel/MaximSDK/Libraries/CMSIS/Device/Maxim/MAX78000/Include/gcr_regs.h \
+ /home/feriel/MaximSDK/Libraries/CMSIS/../PeriphDrivers/Include/MAX78000/mxc_errors.h \
+ /home/feriel/MaximSDK/Libraries/CMSIS/../PeriphDrivers/Include/MAX78000/mxc_pins.h \
+ /home/feriel/MaximSDK/Libraries/CMSIS/../PeriphDrivers/Include/MAX78000/gpio.h \
+ /home/feriel/MaximSDK/Libraries/CMSIS/Device/Maxim/MAX78000/Include/gpio_regs.h \
+ /home/feriel/MaximSDK/Libraries/CMSIS/../PeriphDrivers/Include/MAX78000/mxc_errors.h \
+ /home/feriel/MaximSDK/Libraries/CMSIS/../PeriphDrivers/Include/MAX78000/mxc_assert.h \
+ /home/feriel/MaximSDK/Libraries/CMSIS/../PeriphDrivers/Include/MAX78000/mxc_sys.h \
+ /home/feriel/MaximSDK/Libraries/CMSIS/../PeriphDrivers/Include/MAX78000/mxc_device.h \
+ /home/feriel/MaximSDK/Libraries/CMSIS/Device/Maxim/MAX78000/Include/lpgcr_regs.h \
+ /home/feriel/MaximSDK/Libraries/CMSIS/Device/Maxim/MAX78000/Include/gcr_regs.h \
+ /home/feriel/MaximSDK/Libraries/CMSIS/../PeriphDrivers/Include/MAX78000/wdt.h \
+ /home/feriel/MaximSDK/Libraries/CMSIS/Device/Maxim/MAX78000/Include/wdt_regs.h \
+ /home/feriel/MaximSDK/Libraries/CMSIS/../PeriphDrivers/Source/WDT/wdt_revb.h \
+ /home/feriel/MaximSDK/Libraries/CMSIS/../PeriphDrivers/Source/WDT/wdt_revb_regs.h
