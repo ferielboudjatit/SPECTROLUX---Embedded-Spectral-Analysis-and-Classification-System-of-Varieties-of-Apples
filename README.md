@@ -222,7 +222,6 @@ IPATH += $(CMSIS_ROOT)/Include
 | Figures                                                        |
 | -------------------------------------------------------------- |
 | ![Lamp Comparison](include/Exploration_lampes.png)             |
-| ![Apple Varieties](include/Différentes variétés de pommes.png) |
 | ![Story Apple](include/Pommes_Story.png)                       |
 | ![Gala Apple](include/Pommes_Gala.png)                         |
 | ![Juliet Apple](include/Pommes_Juliet.png)                     |
